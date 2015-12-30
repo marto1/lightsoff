@@ -1,0 +1,19 @@
+!uBlock Origin list of sites to be blocked 
+!add to My Filters
+
+!timesinks
+*www.facebook.com
+*twitter.com
+*news.ycombinator.com
+*hugelol.com
+*4chan.org
+*hiddenlol.com
+*gmail.com
+
+!online shopping timesinks
+*amazon.com
+*amazon.de
+*amazon.co.uk
+*ebay.com
+*ebay.co.uk
+*ebay.de
